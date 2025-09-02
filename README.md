@@ -23,7 +23,6 @@ I'm a passionate software developer focused on creating innovative and scalable 
       <span className="bg-gray-600 text-white px-3 py-1 rounded-md">SQL</span>
     </div>
   </div>
-  {/* Frontend Development */}
   <div className="mb-6">
     <h3 className="text-lg font-semibold mb-2">Frontend Development</h3>
     <div className="flex flex-wrap gap-2">

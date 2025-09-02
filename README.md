@@ -6,7 +6,6 @@ I'm a passionate software developer focused on creating innovative and scalable 
  <h2 className="text-2xl font-bold flex items-center mb-6">
     <span className="mr-2">🛠️</span> Technologies &amp; Skills:
   </h2>
-  {/* Programming Languages */}
   <div className="mb-6">
     <h3 className="text-lg font-semibold mb-2">Programming Languages</h3>
     <div className="flex flex-wrap gap-2">
@@ -41,7 +40,6 @@ I'm a passionate software developer focused on creating innovative and scalable 
       </span>
     </div>
   </div>
-  {/* Backend Development */}
   <div className="mb-6">
     <h3 className="text-lg font-semibold mb-2">Backend Development</h3>
     <div className="flex flex-wrap gap-2">
@@ -59,7 +57,6 @@ I'm a passionate software developer focused on creating innovative and scalable 
       </span>
     </div>
   </div>
-  {/* APIs & Tools */}
   <div className="mb-6">
     <h3 className="text-lg font-semibold mb-2">APIs &amp; Tools</h3>
     <div className="flex flex-wrap gap-2">
@@ -77,36 +74,9 @@ I'm a passionate software developer focused on creating innovative and scalable 
       </span>
     </div>
   </div>
-  {/* Mobile Development */}
-  <div className="mb-6">
-    <h3 className="text-lg font-semibold mb-2">Mobile Development</h3>
-    <div className="flex flex-wrap gap-2">
-      <span className="bg-sky-400 text-white px-3 py-1 rounded-md">
-        React Native
-      </span>
-      <span className="bg-black text-white px-3 py-1 rounded-md">Expo</span>
-      <span className="bg-sky-300 text-white px-3 py-1 rounded-md">
-        Expo Push Notification
-      </span>
-    </div>
-  </div>
-  {/* AI & NLP */}
-  <div className="mb-6">
-    <h3 className="text-lg font-semibold mb-2">AI &amp; NLP</h3>
-    <div className="flex flex-wrap gap-2">
-      <span className="bg-purple-600 text-white px-3 py-1 rounded-md">NLP</span>
-      <span className="bg-orange-500 text-white px-3 py-1 rounded-md">
-        TensorFlow.js
-      </span>
-    </div>
-  </div>
-  {/* Proficiency */}
-  <div>
-    <h3 className="text-lg font-semibold mb-2">Proficiency</h3>
-    <ul className="list-none space-y-1">
-      <li>📝 English Proficiency (Written)</li>
-      <li>🎤 English Proficiency (Spoken)</li>
-    </ul>
-  </div>
+ 
+
+  
+ 
 
 

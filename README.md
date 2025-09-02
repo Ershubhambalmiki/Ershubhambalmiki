@@ -8,19 +8,10 @@ I'm a passionate software developer focused on creating innovative and scalable 
   </h2>
   <div className="mb-6">
     <h3 className="text-lg font-semibold mb-2">Programming Languages</h3>
-    <div className="flex flex-wrap gap-2">
-      <span className="bg-blue-600 text-white px-3 py-1 rounded-md">Java</span>
-      <span className="bg-yellow-400 text-black px-3 py-1 rounded-md">
-        JavaScript
-      </span>
-    
-      <span className="bg-orange-500 text-white px-3 py-1 rounded-md">
-        HTML
-      </span>
-      <span className="bg-blue-400 text-white px-3 py-1 rounded-md">CSS</span>
-      <span className="bg-gray-600 text-white px-3 py-1 rounded-md">SQL</span>
-    </div>
-  </div>
+    <span className="bg-sky-400 text-white px-3 py-1 rounded-md">JavaScript</span>
+      <span className="bg-black text-white px-3 py-1 rounded-md">Html</span>
+      <span className="bg-black text-white px-3 py-1 rounded-md">CSS</span>
+      <span className="bg-black text-white px-3 py-1 rounded-md">Sql</span>
   <div className="mb-6">
     <h3 className="text-lg font-semibold mb-2">Frontend Development</h3>
     <div className="flex flex-wrap gap-2">

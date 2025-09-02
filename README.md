@@ -13,9 +13,7 @@ I'm a passionate software developer focused on creating innovative and scalable 
       <span className="bg-yellow-400 text-black px-3 py-1 rounded-md">
         JavaScript
       </span>
-      <span className="bg-blue-500 text-white px-3 py-1 rounded-md">
-        Python
-      </span>
+    
       <span className="bg-orange-500 text-white px-3 py-1 rounded-md">
         HTML
       </span>
